@@ -1,0 +1,9 @@
+[submodule "linux"]
+	path = linux
+	url = git://github.com/infoburp/linux
+[submodule "grub"]
+	path = grub
+	url = git://github.com/infoburp/grub
+[submodule "busybox"]
+	path = busybox
+	url = git://github.com/infoburp/busybox
